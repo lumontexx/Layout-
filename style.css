@@ -1,0 +1,26 @@
+h1, h3 {
+    color: #af2f0e;
+        }
+ .header {
+padding: 30px;
+text-align: center;
+ }
+.espaguete {
+width: 70%;
+border-radius: 20px;
+}
+ .planoDeFundo {
+ background-color: #292b16;
+    }
+.segoe {
+ font-family: segoe print;
+    }
+.arial {
+font-family: arial;
+}
+nav a{
+color: #e77528;
+padding: 15px 21px;
+ }
+ h3 { padding: 20px 30px;
+ }
