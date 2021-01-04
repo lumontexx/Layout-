@@ -1,6 +1,10 @@
 h1, h3 {
     color: #af2f0e;
         }
+ .grad1 {
+ background-color: #6f20a3; 
+ background-image: linear-gradient(to right,#f5f269, #dd84f8fd);
+          }
  .header {
 padding: 30px;
 text-align: center;
@@ -9,7 +13,7 @@ text-align: center;
 width: 70%;
 border-radius: 20px;
 }
- .planoDeFundo {
+ .tarja{
  background-color: #292b16;
     }
 .segoe {
