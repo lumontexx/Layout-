@@ -1,31 +1,37 @@
-h1, h3 {
-    color: #af2f0e;
-        }
- .grad1 {
- background-color: #6f20a3; 
- background-image: linear-gradient(to right,#f5f269, #dd84f8fd);
+
+ .grad {
+ background-color: #000000; 
+ background-image: linear-gradient(to right,#021601, #4c6b05fd);
           }
- .header {
+ .title {
 padding: 30px;
 text-align: center;
- }
-.espaguete {
-width: 60%;
-border-radius: 40px;
-}
- .tarja{
- background-color: #292b16;
- background-image: linear-gradient(to right,#111111, #3f413ffd);
-    }
-.segoe {
- font-family: segoe print;
-    }
-.arial {
 font-family: arial;
+color: #c0d65e;
+font-size: 30;
+font-weight: bold;
+ }
+.cx-mn {
+padding: 20px 300px 300px 10px;
+margin:10px 100px;
+background-color: #163802;
+background-image: url(img/mesa.jpg);
+border-radius: 2%;
 }
-nav a{
-color: #f79758;
-padding: 15px 21px;
- }
- h3 { padding: 20px 30px;
- }
+.tx-cx {
+font-family: 'Times New Roman', Times, serif; 
+font-size: 35;
+color: #dffc3b;
+font-weight: bold;
+
+    }
+.prg {
+font-family: arial;
+font-size: 20;
+font-weight: bold;
+}
+.item-mn a {
+color:#ebe987;
+}
+
+
